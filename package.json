@@ -7,6 +7,7 @@
   "author": "Enrique Benitez <benitez@bitso.com>",
   "license": "UNLICENSED",
   "scripts": {
+    "build": "sanity build",
     "start": "sanity start",
     "test": "sanity check"
   },
